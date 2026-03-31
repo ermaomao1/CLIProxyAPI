@@ -1,0 +1,10 @@
+host: ""
+port: 8317
+auth-dir: "~/.cli-proxy-api"
+api-keys:
+  - "sk-1234567890abcdef"
+debug: false
+remote-management:
+  allow-remote: true
+  secret-key: "manage-123456"
+  disable-control-panel: false
